@@ -37,7 +37,7 @@ class Clock {
   };
 }
 
-// const clock = new Clock();
+const clock = new Clock();
 
 
 
@@ -90,3 +90,5 @@ class Lamp {
   
   boundTurnOn(); // should say "Turning on a lamp"
   myBoundTurnOn(); // should say "Turning on a lamp"
+
+
